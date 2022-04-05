@@ -1,2 +1,2 @@
-# chess_cpp
+# chess
 chess console
